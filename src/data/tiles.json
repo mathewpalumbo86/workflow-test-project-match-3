@@ -1,0 +1,7 @@
+[
+  { "id": 0, "colour": "#e5484d", "shape": "circle" },
+  { "id": 1, "colour": "#3e9bf0", "shape": "square" },
+  { "id": 2, "colour": "#46c46a", "shape": "triangle" },
+  { "id": 3, "colour": "#f2c035", "shape": "diamond" },
+  { "id": 4, "colour": "#a66bf0", "shape": "hexagon" }
+]
